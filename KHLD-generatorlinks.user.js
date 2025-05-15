@@ -5,8 +5,8 @@
 // @description  Generate gift links for Family Farm game with URL shortening and scheduling
 // @author       Dr. Ahmed Khaled
 // @match        *://*/*
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/AhmedKhaled2132003/gene/edit/main/KHLD-generatorlinks.user.js
+// @downloadURL  https://raw.githubusercontent.com/AhmedKhaled2132003/gene/edit/main/KHLD-generatorlinks.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_download
 // @grant        GM_setValue
