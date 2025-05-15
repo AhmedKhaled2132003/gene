@@ -4,7 +4,7 @@
 // @version      3.0
 // @description  Generate gift links for Family Farm game with URL shortening and scheduling
 // @author       Dr. Ahmed Khaled
-// @match         https://drahmedkhaled.neocities.org/466006729_1571389266809831_2782922343428751993_n.jpg
+// @match        https://drahmedkhaled.neocities.org/AKhaledlinks.jpg
 // @updateURL    https://raw.githubusercontent.com/AhmedKhaled2132003/gene/main/KHLD-generatorlinks.user.js
 // @downloadURL  https://raw.githubusercontent.com/AhmedKhaled2132003/gene/main/KHLD-generatorlinks.user.js
 // @grant        GM_xmlhttpRequest
