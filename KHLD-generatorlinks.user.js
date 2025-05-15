@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Family Farm Gift Link Generator
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  Generate gift links for Family Farm game with URL shortening and scheduling
 // @author       Dr. Ahmed Khaled
 // @match        https://drahmedkhaled.neocities.org/AKhaledlinks.jpg
