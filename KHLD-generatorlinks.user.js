@@ -1438,5 +1438,5 @@
     }
 
     // Initialize the UI when the script loads
-    createUI();
+    window.addEventListener('load', createUI);
 })();
